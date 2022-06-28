@@ -1,1 +1,1 @@
-No content has been added yet. Check out [#1](https://github.com/jcbhmr/jcbhmr.github.io/projects/1) to see progress on a v1 release.
+This GitHub.io subdomain is a stub link to my [GitHub profile page](https://github.com/jcbhmr)
