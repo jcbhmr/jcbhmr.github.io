@@ -1,1 +1,1 @@
-This is just a stub for a redirect to [`jcbhmr.ml`](https://jcbhmr.ml/). You can view its source code over at [`jcbhmr/website`](https://github.com/jcbhmr/website).
+No content has been added yet. Check out [#1](https://github.com/jcbhmr/jcbhmr.github.io/projects/1) to see progress on a v1 release.
