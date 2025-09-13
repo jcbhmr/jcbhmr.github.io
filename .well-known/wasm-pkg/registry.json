@@ -1,4 +1,0 @@
-{
-  "preferredProtocol": "oci",
-  "oci": {"registry": "ghcr.io", "namespacePrefix": "jcbhmr/wasm/"}
-}
